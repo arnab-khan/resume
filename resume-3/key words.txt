@@ -1,0 +1,1 @@
+Graph QL, Micro frontend, signal, REST API, D3
